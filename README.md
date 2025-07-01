@@ -32,6 +32,8 @@ This project implements an neural network for Fashion MNIST classification using
 
 **Dataset Source**: [Kaggle Fashion-MNIST](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
 
+**Google Colab**: [Project ipynb](https://colab.research.google.com/github/enrell/image-classification/blob/main/fashion_mnist_analysis.ipynb)
+
 ## 🏗️ Model Architecture
 
 ### Sequential Neural Network
